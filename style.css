@@ -1,0 +1,269 @@
+body{
+  background: #ffffe6;
+  font-family: sans-serif;
+
+}
+
+.top{
+  width: 1350px;
+}
+
+.top h2{
+  margin-left: 50px;
+  font-weight:bolder;
+  margin-bottom: 60px;
+}
+
+.top h1{
+  margin-left: 50px;
+  width: 500px;
+  font-size: 50px;
+}
+
+.top p{
+  margin-left: 50px;
+  width: 500px;
+  font-size: 13px;
+}
+
+.side{
+  width:200px;
+  height: 300px;
+  position: relative;
+  left: 850px;
+  top : -300px;
+}
+
+.one{
+  width: 95px;
+  height:170px;
+  background-color: #33ffcc;
+  border-top-left-radius: 10%;
+  border-bottom-left-radius: 50%;
+  border-top-right-radius: 10%;
+  position: relative;
+}
+
+.two{
+  width: 40px;
+  height: 60px;
+  position: relative;
+  background-color: #000000;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  position: relative;
+  left: 96px;
+  top: -170px;
+}
+
+.three{
+  width: 40px;
+  height: 20px;
+  background-color: #ff471a;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  position: relative;
+  left: 137px;
+  top: -230px;
+}
+
+.four{
+  width: 40px;
+  height: 40px;
+  background-color: #ff8c1a;
+  border-radius: 50%;
+  position: relative;
+  left: 137px;
+  top: -230px;
+}
+
+.five{
+  width: 100px;
+  height: 100px;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 50%;
+  position: relative;
+  left: 96px;
+  top: -230px;
+
+}
+
+.withinFive{
+  width: 50px;
+  height: 50px;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 50%;
+  margin-top: 20px;
+  position: relative;
+}
+
+.six{
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background-color: #ff8c1a;
+  position: relative;
+  top: -223px;
+  left: 6px;
+}
+
+.seven{
+  width: 90px;
+  height: 90px;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-right-radius: 50%;
+  background-color: #000000;
+  position: relative;
+  left: 96px;
+  top: -315px;
+}
+
+
+.bottom{
+  width: 700px;
+  height: 350px;
+  background-color: #000000;
+  margin-left: 150px;
+  margin-top: -150px;
+}
+
+img{
+  margin-left: 50px;
+  position: relative;
+  bottom: 90px;
+  border-radius: 20px;
+}
+
+.second{
+  width: 50px;
+  height: 100px;
+  background-color: #ffa64d;
+  border-bottom-right-radius:50px;
+  border-top-right-radius: 50px;
+  position: relative;
+  left: 223px;
+  top: -290px;
+}
+
+.third{
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  background-color: #fff;
+  position: relative;
+  left: 223px;
+  top: -442px;
+}
+
+.fourth{
+  width: 62px;
+  height: 85px;
+  border-style: solid;
+  border-width: thin;
+  border-color: #fff;
+  position: relative;
+  left: 199px;
+  top: -342px;
+  border-bottom-right-radius:50px;
+  border-top-right-radius: 50px;
+  border-right-color: none;
+
+}
+
+.innerfourth{
+  width: 40px;
+  height: 40px;
+  border-style: solid;
+  border-width: thin;
+  border-color: #fff;
+  border-radius: 50px;
+  position: relative;
+  left: 0px;
+  bottom: -44px;
+}
+
+.fifth{
+  width: 80px;
+  height: 150px;
+  background-color: cyan;
+  border-radius: 50px;
+  position: relative;
+  left: 277px;
+  top: -590px;
+}
+
+.sixth{
+  width: 300px;
+  height: 385px;
+  background-color: #ff704d;
+  color: #fff;
+  border-radius: 8px;
+  position: relative;
+  left: 330px;
+  top: -710px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.sixth h2{
+  margin-left: 40px;
+}
+
+.sixth p{
+  font-size: 12px;
+  width: 230px;
+  line-height: 2.2;
+  font-weight: lighter;
+  margin-left: 40px;
+}
+
+.sixth #price{
+  font-size: 30px;
+  font-weight: bolder;
+  margin-top: 15px;
+}
+
+
+
+.sixth #price span{
+  font-size: 12px;
+  margin-left: 5px;
+}
+
+button{
+  padding: 5px;
+  margin-top: 7px;
+  margin-left: 70px;
+  width: 170px;
+  border-radius: 7px;
+}
+
+.sixth button i{
+  font-family: calibri;
+  font-weight: bolder;
+}
+
+.sixth .ios{
+  background-color: #000;
+}
+
+.sixth button #ios{
+  color: #fff;
+}
+
+footer{
+  margin-top: 200px;
+  display: inline-block;
+  margin-left: 400px;
+}
+
+footer p{
+  font-size: 12px;
+}
+
+footer p span{
+  font-weight: bolder;
+}
